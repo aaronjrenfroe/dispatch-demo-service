@@ -1,4 +1,4 @@
-osphere/dispatch-yaml:v0.3
+#!mesosphere/dispatch-yaml:v0.3
 
 resource:
   docker-image:
